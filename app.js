@@ -20,10 +20,12 @@ boxes.forEach((box) => {
         //console.log("box was clicked");
         if(turnO){
             box.innerText = "O";
+            box.style.color = "blue"; // Change color for "O"
             turnO = false;
 
         }else{
             box.innerText = "X";
+            box.style.color = "green"; // Change color for "X"
             turnO = true;
         }
         box.disabled = true;
