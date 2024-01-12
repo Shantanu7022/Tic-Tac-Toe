@@ -14,14 +14,14 @@ body{
 }
 
 .container{
-    height: 80vh;
+    height: 75vh;
     display: flex;
     justify-content: center;
     align-items: center;
 }
 
 .game{
-   height: 500px; 
+   height: 450px; 
    width: 500px;
    display: flex;
    flex-wrap: wrap;
@@ -32,13 +32,14 @@ body{
 }
 
 .box{
-    height: 150px;
-    width: 150px;
+    height: 130px;
+    width: 130px;
     background-color: #f3ece7;
     font-size: 45px;
     border-radius: 20px;
     border: none;
     box-shadow: 0 0 1rem rgba(8, 0, 0, 0.3);
+    cursor: pointer;
 }
 
 #reset{
@@ -53,4 +54,32 @@ body{
     color: white;
     cursor: pointer;
     
+}
+
+
+#newGame-btn{
+    height: 45px;
+    width: 200px;
+    text-align: center;
+    font-size: 20px;
+    border: none;
+    border-radius: 15px;
+    font-weight: bold;
+    background-color: rgb(68, 221, 12);
+    color: rgb(11, 13, 133);
+    cursor: pointer;
+}
+
+#msg{
+    color: rgb(1, 88, 10);
+    font-size: 25px;
+    font-weight:bold;
+}
+
+.msg-box{
+    height: 50px;
+}
+
+.hide{
+    display: none;
 }
