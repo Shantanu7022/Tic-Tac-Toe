@@ -58,26 +58,31 @@ body{
 
 
 #newGame-btn{
-    height: 45px;
-    width: 200px;
+    height: 60px;
+    width: 300px;
     text-align: center;
-    font-size: 20px;
+    font-size: 30px;
     border: none;
     border-radius: 15px;
     font-weight: bold;
-    background-color: rgb(68, 221, 12);
-    color: rgb(11, 13, 133);
+    background-color: #415a77;
+    color: #ced4da;
     cursor: pointer;
 }
 
 #msg{
     color: rgb(1, 88, 10);
-    font-size: 25px;
+    font-size: 45px;
     font-weight:bold;
 }
 
 .msg-box{
-    height: 50px;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
 }
 
 .hide{
