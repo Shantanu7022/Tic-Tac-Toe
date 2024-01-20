@@ -19,75 +19,29 @@
 - **Code Editor and tools**: VS Code
 
 
+### Desktop View
+![Screenshot (2245)](https://github.com/Shantanu7022/Tic-Tac-Toe/assets/123929397/bf568273-8bdd-4f48-8716-bb0aa6dda935)
+![Screenshot (2246)](https://github.com/Shantanu7022/Tic-Tac-Toe/assets/123929397/f31d9631-7d8a-4f4a-b6bc-c420e4709f25)
 
+### Responsive View
+![Screenshot (2247)](https://github.com/Shantanu7022/Tic-Tac-Toe/assets/123929397/44c02a65-2150-4a1c-8af6-4df795518755)
+![Screenshot (2248)](https://github.com/Shantanu7022/Tic-Tac-Toe/assets/123929397/a27c0b2d-96b6-4bcb-8f7b-0cc815dc7b06)
 
 
   
-<!-- ## Contribution Guidelines 🏗
+ ## How to use this project in your system
 
- To start contributing, follow the below guidelines:
+**1.** Create a folder in your system.
 
-**1.** Fork [this](https://imhardikdesai.github.io/news-website/) repository.
-
-**2.** Clone your forked copy of the project.
+**2.** Open that folder and clone this repository.
 
 ```
-git clone https://github.com/imhardikdesai/news-website.git
+git clone https://github.com/Shantanu7022/Tic-Tac-Toe.git
 ```
 
-**3.** Navigate to the project directory :file_folder: .
-
-```
-cd news-website
-```
-
-**4.** Add a reference(remote) to the original repository.
-
-```
-git remote add upstream news-website.git
-```
-
-**5.** Check the remotes for this repository.
-
-```
-git remote -v
-```
-
-**6.** Create a new branch.
-
-```
-git checkout -b <your_branch_name>
-```
-
-**7.** Perfom your desired changes to the code base.
-
-**8.** Track your changes:heavy_check_mark: .
-
-```
-git add .
-```
-
-**9.** Commit your changes .
-
-```
-git commit -m "Relevant message"
-```
-
-**10.** Push the committed changes in your feature branch to your remote repo.
-
-```
-git push -u origin <your_branch_name>
-```
-
-**11.** To create a pull request, click on `compare and pull requests`.
-
-**12.** Add appropriate title and description to your pull request explaining your changes and efforts done.
-
-**13.** Click on `Create Pull Request`.
-
-**14** You did it! 🥳 Wait for your submission to be accepted and your PR to be merged.
+**3** You did it! 🥳 Now can use this project in your system.
 
 <br />
 
 
-  -->
+
